@@ -1,0 +1,54 @@
+#myVideo{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 30%;
+    min-height: 30%;
+}
+.front{
+    position: fixed;
+     font-size: xx-large;
+     color: white;
+     margin-left: 20rem;
+     size: 25rem;
+}
+.para{
+ margin-top: 5rem;
+ position: fixed;
+ font-size: xx-large;
+ color: azure;
+ margin-left: 60rem;
+ size: 25rem;
+}
+.buttons{
+    position: fixed;
+    display: flex;
+    
+    margin-top: 23rem;
+   
+}
+.btn{
+    width: 13rem;
+    height: 5rem;
+    font-size: xx-large;
+    margin-left: 15rem;
+    background-color:transparent;
+    color: white;
+    font-style: oblique;
+    font-weight: 1000;
+}
+.btn:hover{
+    transform: scale(1.4);
+    color: rgba(255, 0, 0, 0.874);
+}
+footer{
+    position: fixed;  
+     margin-top: 42rem;
+     margin-left: 70em;  
+   align-items: center;
+   
+    background-color: black;
+    color: white;
+    
+    
+}
